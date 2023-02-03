@@ -46,7 +46,7 @@ public class Email {
                     protected PasswordAuthentication getPasswordAuthentication()
                     {
                         return new PasswordAuthentication("sarrestaurante@gmail.com",
-                                "3L.E4~^)*wK6g'r^"); // acertar senha
+                                "pass"); // acertar senha
                     }
                 });
         session.setDebug(true);
